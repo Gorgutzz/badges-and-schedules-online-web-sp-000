@@ -6,9 +6,9 @@ end
 
 def batch_badge_creator(speakers)
   badges = [ ]
-
   speakers.each do |name|
-    puts
+    badges = badge_maker(speaker)
+
 
 
 
