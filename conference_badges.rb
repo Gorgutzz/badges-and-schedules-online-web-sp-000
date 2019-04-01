@@ -23,4 +23,5 @@ end
 def printer
   speakers.each do |room_assignments|
     puts room_assignment
+  end
 end
